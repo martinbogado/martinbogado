@@ -24,16 +24,16 @@ Here are some ideas to get you started:
  
 #### 📍 Currently base at: Buenos Aires, Argentina
 
-#### 👨🏻‍💻 Currently working on:
+#### 👨🏻‍💻 Currently working with:
 
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a src="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
 
 
 <h2 align="center">💻 Some stats 💻</h2>
