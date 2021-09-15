@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi! I'm Martin Bogado <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Full+Stack+Developer+Student;HTML%2C+CSS%2C+JavaScript%2C+Figma;React%2C+Redux%2C+Node%2C+Express)](https://git.io/typing-svg)
 
 ### 📫 Get In Touch
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->
