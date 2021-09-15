@@ -22,6 +22,23 @@ Here are some ideas to get you started:
    <a href="mailto:martinbogado@live.com.ar" rel="noreferrer" target="_blank" margin="30px"><img align="center"       src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="mail" height="30" width="40" /></a>
 </p>
 
+#### 📍 Currently base at: Buenos Aires, Argentina
+
+#### 👨🏻‍💻 Currently working on:
+
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+
 
 <h2 align="center">💻 Some stats 💻</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinbogado&show_icons=true&theme=merko&locale=en" alt="martinbogado" /></p>
