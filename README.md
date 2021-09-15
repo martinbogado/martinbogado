@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 </p>
 
 
-<h2>💻 Some stats 💻</h2>
+<h2 align="center">💻 Some stats 💻</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinbogado&show_icons=true&theme=merko&locale=en" alt="martinbogado" /></p>
