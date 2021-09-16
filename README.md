@@ -8,11 +8,11 @@
 ### About me:
 - 🌎 Currently base at: Buenos Aires, Argentina
 - <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Student at **[Henry](https://www.soyhenry.com/)**
-- 👨🏻‍💻 I’m currently working on Weather App
-- 📚 I’m currently learning Express
+- 👨🏻‍💻 I’m currently working on **Weather App**
+- 📚 I’m currently learning **Express**
 - 👯 I’m looking to collaborate on JavaScript Projects
 - 💬 Ask me about Web Development and Science
-- 🚴 Hobbies: Calisthenics, Playing the Guitar, Playing Chess, thinking about learning Photography 🤔📷
+- 🚴 **Hobbies**: Calisthenics, Playing the Guitar, Playing Chess, thinking about learning Photography 🤔📷
 <br />
 
 ## 📫 Get In Touch
@@ -22,7 +22,7 @@
 &nbsp; &nbsp;
 
 
-## 👨🏻‍💻 Languages and Tools:
+## 👨🏻‍💻 Languages & Tools I know:
 
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
