@@ -16,7 +16,7 @@
 <br />
 
 ## 📫 Get In Touch
-<a href="https://www.linkedin.com/in/martin-emmanuel-bogado-8a7b28162"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/martinbogado/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:martinbogado@live.com.ar"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px" alt="mail"></a> 
 &nbsp; &nbsp;
