@@ -9,7 +9,7 @@
 - 🌎 Currently base at: Buenos Aires, Argentina
 - <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Student at **[Henry](https://www.soyhenry.com/)**
 - 👨🏻‍💻 I’m currently working on **Pokemon PI**
-- 📚 I’m currently learning **Sequilize**
+- 📚 I’m currently learning **TypeScript**
 - 👯 I’m looking to collaborate on JavaScript Projects
 - 💬 Ask me about Web Development and Science
 - 🚴 **Hobbies**: Calisthenics, Playing the Guitar, Playing Chess, thinking about learning Photography 🤔📷
@@ -30,6 +30,7 @@
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
