@@ -41,16 +41,16 @@
   <summary>:pushpin: My projects </summary>
   <br>
   <div>
-    <h3>Pokemon App</h3>
+    <h2>Pokemon App</h2>
     <div>
       <div style={{display:'flex'}}>
-      <img src="https://user-images.githubusercontent.com/85038226/139119482-07547852-6a48-49b7-97de-e76735b1621d.png" width=49.5%>
-      <img src="https://user-images.githubusercontent.com/85038226/139119646-a4a5b09e-0601-4a93-ac25-27462af188b8.png" width=49.5%>
+        <img src="https://user-images.githubusercontent.com/85038226/139119482-07547852-6a48-49b7-97de-e76735b1621d.png" width=49.5%>
+        <img src="https://user-images.githubusercontent.com/85038226/139119646-a4a5b09e-0601-4a93-ac25-27462af188b8.png" width=49.5%>
       </div>
       <div style={{display:'flex'}}>
-      <img src="https://user-images.githubusercontent.com/85038226/139119921-ce0ad835-7529-47dc-a7dc-251fab2c6a2f.png" width=49.5%>
-      <img src="https://user-images.githubusercontent.com/85038226/139119646-a4a5b09e-0601-4a93-ac25-27462af188b8.png" width=49.5%>
-      </div>  
+        <img src="https://user-images.githubusercontent.com/85038226/139119921-ce0ad835-7529-47dc-a7dc-251fab2c6a2f.png" width=49.5%>
+        <img src="https://user-images.githubusercontent.com/85038226/139538235-4109a30c-0c61-45b6-8145-03dad3a85196.png" width=49.5%>
+      </div>
     </div>  
     <p align="center">
       <a href="https://github.com/martinbogado/Pokemon-PI">
@@ -58,17 +58,17 @@
       </a>
     </p>
   </div>
-  <hr>
+  <br>
    <div>
-    <h3>Weather App</h3>
+    <h2>Weather App</h2>
     <div>
       <div style={{display:'flex'}}>
-      <img src="https://user-images.githubusercontent.com/85038226/133857385-762532ed-d199-4a04-b9ec-eca025bcfe71.png" width=49.5%>
-      <img src="https://user-images.githubusercontent.com/85038226/133858002-274e14cc-dc2b-4a46-a102-ae2e607b6cfb.png" width=49.5%>
+        <img src="https://user-images.githubusercontent.com/85038226/133857385-762532ed-d199-4a04-b9ec-eca025bcfe71.png" width=49.5%>
+        <img src="https://user-images.githubusercontent.com/85038226/133858002-274e14cc-dc2b-4a46-a102-ae2e607b6cfb.png" width=49.5%>
       </div>
       <div style={{display:'flex'}}>
-      <img src="https://user-images.githubusercontent.com/85038226/133857527-60956e4d-57df-4e76-8734-4b4df0ae4d76.png" width=49.5%>
-      <img src="https://user-images.githubusercontent.com/85038226/139119646-a4a5b09e-0601-4a93-ac25-27462af188b8.png" width=49.5%>
+        <img src="https://user-images.githubusercontent.com/85038226/133857527-60956e4d-57df-4e76-8734-4b4df0ae4d76.png" width=49.5%>
+        <img src="https://user-images.githubusercontent.com/85038226/139538154-0708ec6d-7982-4620-b0be-f29ac87607f8.png" width=49.5%>
       </div>  
     </div>  
     <p align="center">
