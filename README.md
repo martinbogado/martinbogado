@@ -36,6 +36,49 @@
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
 
+&nbsp;
+<details>
+  <summary>:pushpin: My projects </summary>
+  <br>
+  <div>
+    <h3>Pokemon App</h3>
+    <div>
+      <div style={{display:'flex'}}>
+      <img src="https://user-images.githubusercontent.com/85038226/139119482-07547852-6a48-49b7-97de-e76735b1621d.png" width=49.5%>
+      <img src="https://user-images.githubusercontent.com/85038226/139119646-a4a5b09e-0601-4a93-ac25-27462af188b8.png" width=49.5%>
+      </div>
+      <div style={{display:'flex'}}>
+      <img src="https://user-images.githubusercontent.com/85038226/139119921-ce0ad835-7529-47dc-a7dc-251fab2c6a2f.png" width=49.5%>
+      <img src="https://user-images.githubusercontent.com/85038226/139119646-a4a5b09e-0601-4a93-ac25-27462af188b8.png" width=49.5%>
+      </div>  
+    </div>  
+    <p align="center">
+      <a href="https://github.com/martinbogado/Pokemon-PI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinbogado&repo=Pokemon-PI&show_owner=true&theme=slateorange" />
+      </a>
+    </p>
+  </div>
+  <hr>
+   <div>
+    <h3>Weather App</h3>
+    <div>
+      <div style={{display:'flex'}}>
+      <img src="https://user-images.githubusercontent.com/85038226/133857385-762532ed-d199-4a04-b9ec-eca025bcfe71.png" width=49.5%>
+      <img src="https://user-images.githubusercontent.com/85038226/133858002-274e14cc-dc2b-4a46-a102-ae2e607b6cfb.png" width=49.5%>
+      </div>
+      <div style={{display:'flex'}}>
+      <img src="https://user-images.githubusercontent.com/85038226/133857527-60956e4d-57df-4e76-8734-4b4df0ae4d76.png" width=49.5%>
+      <img src="https://user-images.githubusercontent.com/85038226/139119646-a4a5b09e-0601-4a93-ac25-27462af188b8.png" width=49.5%>
+      </div>  
+    </div>  
+    <p align="center">
+      <a href="https://github.com/martinbogado/WeatherApp">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinbogado&repo=WeatherApp&show_owner=true&theme=slateorange" />
+      </a>
+    </p>
+  </div>
+</details>
+
 
 <h2>💻 Some stats 💻</h2>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinbogado&show_icons=true&theme=slateorange&locale=en" alt="martinbogado" /><img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="185" height="185" /> </p>
@@ -43,7 +86,7 @@
 
 <!--  Para agregar despues
   <details>
-    <summary> 💥 Working on </summary>
+    <summary>💥 Working on </summary>
     <br>
     <p align="center">
       <a href="https://github.com/martinbogado/WeatherApp">
