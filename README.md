@@ -8,7 +8,7 @@
 ### About me:
 - 🌎 Currently base at: Buenos Aires, Argentina
 - <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Student at **[Henry](https://www.soyhenry.com/)**
-- 👨🏻‍💻 I’m currently working on **Pokemon PI**
+- 👨🏻‍💻 I’m currently working on **CodeNet**
 - 📚 I’m currently learning **TypeScript**
 - 👯 I’m looking to collaborate on JavaScript Projects
 - 💬 Ask me about Web Development and Science
