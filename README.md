@@ -40,8 +40,28 @@
 <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
 
 &nbsp;
+  ## 🔨 Projects I've worked on:
 <details>
-  <summary>:pushpin: My projects </summary>
+  <summary>:pushpin:👈👈👈</summary>
+  <br>
+  <div>
+    <h2>NFT Drop Website</h2>
+    <div>
+      <div style={{display:'flex'}}>
+        <img src="https://user-images.githubusercontent.com/85038226/163282246-b97c7695-1e8c-472f-8463-44b35289c0c8.png" width=49.5%>
+        <img src="https://user-images.githubusercontent.com/85038226/163282383-2c322a4a-3d83-4e64-8874-600fc8b09c29.png" width=49.5%>
+      </div>
+      <div style={{display:'flex'}}>
+        <img src="https://user-images.githubusercontent.com/85038226/163282722-590ac4d9-b798-4f5a-917c-82be28f24260.png" width=49.5%>
+        <img src="https://user-images.githubusercontent.com/85038226/163282932-b70efb1e-f39b-45eb-aed6-b3d422f7a55b.png" width=49.5%>
+      </div>
+    </div>  
+    <p align="center">
+      <a href="https://github.com/martinbogado/Pokemon-PI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinbogado&repo=nft-drop-challenge&show_owner=true&theme=slateorange" />
+      </a>
+    </p>
+  </div>
   <br>
   <div>
     <h2>Pokemon App</h2>
