@@ -1,15 +1,15 @@
 
 
 <h1>Hi! I'm Martin Bogado <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Full+Stack+Developer+Student">
+<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Full+Stack+Developer;Web3+enthusiast">
 
 <!-- Tengo que agregar imagen portada -->
 
 ### About me:
 - 🌎 Currently base at: Buenos Aires, Argentina
 - <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Student at **[Henry](https://www.soyhenry.com/)**
-- 👨🏻‍💻 I’m currently working on **CodeNet**
-- 📚 I’m currently learning **TypeScript**
+- 👨🏻‍💻 I’m currently working on **Portfolio**
+- 📚 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on JavaScript Projects
 - 💬 Ask me about Web Development and Science
 - 🚴 **Hobbies**: Calisthenics, Playing the Guitar, Playing Chess, thinking about learning Photography 🤔📷
