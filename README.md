@@ -4,15 +4,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Full+Stack+Developer;Web3+enthusiast">
 
 <!-- Tengo que agregar imagen portada -->
-
 ### About me:
 - 🌎 Currently base at: Buenos Aires, Argentina
-- <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Student at **[Henry](https://www.soyhenry.com/)**
+- <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Graduate Student from **[Henry](https://www.soyhenry.com/)**
 - 👨🏻‍💻 I’m currently working on **Portfolio**
 - 📚 I’m currently learning **Next.js**
-- 👯 I’m looking to collaborate on JavaScript Projects
-- 💬 Ask me about Web Development and Science
-- 🚴 **Hobbies**: Calisthenics, Playing the Guitar, Playing Chess, thinking about learning Photography 🤔📷
+- 👯 I’m looking to collaborate on Web3 Projects
+- 💬 Ask me about Web Development, Science and Souls games
 <br />
 
 ## 📫 Get In Touch
@@ -46,65 +44,72 @@
   <br>
   <div>
     <h2>NFT Drop Website</h2>
-    <div>
-      <div style={{display:'flex'}}>
+    <div align='center'>
+      <div>
         <img src="https://user-images.githubusercontent.com/85038226/163282246-b97c7695-1e8c-472f-8463-44b35289c0c8.png" width=49.5%>
         <img src="https://user-images.githubusercontent.com/85038226/163282383-2c322a4a-3d83-4e64-8874-600fc8b09c29.png" width=49.5%>
       </div>
-      <div style={{display:'flex'}}>
+      <div>
         <img src="https://user-images.githubusercontent.com/85038226/163282722-590ac4d9-b798-4f5a-917c-82be28f24260.png" width=49.5%>
         <img src="https://user-images.githubusercontent.com/85038226/163282932-b70efb1e-f39b-45eb-aed6-b3d422f7a55b.png" width=49.5%>
       </div>
     </div>  
-    <p align="center">
-      <a href="https://github.com/martinbogado/Pokemon-PI">
+    <div align="center">
+      <a href="https://github.com/martinbogado/nft-drop-challenge">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinbogado&repo=nft-drop-challenge&show_owner=true&theme=slateorange" />
       </a>
-    </p>
+    </div>
   </div>
   <br>
   <div>
     <h2>Pokemon App</h2>
-    <div>
-      <div style={{display:'flex'}}>
+    <div align='center'>
+      <div>
         <img src="https://user-images.githubusercontent.com/85038226/139119482-07547852-6a48-49b7-97de-e76735b1621d.png" width=49.5%>
         <img src="https://user-images.githubusercontent.com/85038226/139119646-a4a5b09e-0601-4a93-ac25-27462af188b8.png" width=49.5%>
       </div>
-      <div style={{display:'flex'}}>
+      <div>
         <img src="https://user-images.githubusercontent.com/85038226/139119921-ce0ad835-7529-47dc-a7dc-251fab2c6a2f.png" width=49.5%>
         <img src="https://user-images.githubusercontent.com/85038226/139538235-4109a30c-0c61-45b6-8145-03dad3a85196.png" width=49.5%>
       </div>
     </div>  
-    <p align="center">
+    <div align="center">
       <a href="https://github.com/martinbogado/Pokemon-PI">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinbogado&repo=Pokemon-PI&show_owner=true&theme=slateorange" />
       </a>
-    </p>
+    </div>
   </div>
   <br>
    <div>
     <h2>Weather App</h2>
-    <div>
-      <div style={{display:'flex'}}>
+    <div align='center'>
+      <div>
         <img src="https://user-images.githubusercontent.com/85038226/133857385-762532ed-d199-4a04-b9ec-eca025bcfe71.png" width=49.5%>
         <img src="https://user-images.githubusercontent.com/85038226/133858002-274e14cc-dc2b-4a46-a102-ae2e607b6cfb.png" width=49.5%>
       </div>
-      <div style={{display:'flex'}}>
+      <div>
         <img src="https://user-images.githubusercontent.com/85038226/133857527-60956e4d-57df-4e76-8734-4b4df0ae4d76.png" width=49.5%>
         <img src="https://user-images.githubusercontent.com/85038226/139538154-0708ec6d-7982-4620-b0be-f29ac87607f8.png" width=49.5%>
       </div>  
     </div>  
-    <p align="center">
+    <div align="center">
       <a href="https://github.com/martinbogado/WeatherApp">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinbogado&repo=WeatherApp&show_owner=true&theme=slateorange" />
       </a>
-    </p>
+    </div>
   </div>
+  <br>
+  <div>
+    <h2 align='center'>Bonfire Lit</h2>
+    <p align='center'><img align='center' src="https://c.tenor.com/eT65efTNamoAAAAi/bonfire-darksouls.gif" /></p>
+    <h3 align='center'>Rest here weary traveler, for great adventures lie ahead</h3>
+  </div>  
+  <br>
 </details>
 
 
 <h2>💻 Some stats 💻</h2>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinbogado&show_icons=true&theme=slateorange&locale=en" alt="martinbogado" /><img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="185" height="185" /> </p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinbogado&show_icons=true&theme=slateorange&locale=en" alt="martinbogado" /><img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="185" height="185" /></p>
 
 
 <!--  Para agregar despues
