@@ -102,7 +102,7 @@
   <div>
     <h2 align='center'>Bonfire Lit</h2>
     <p align='center'><img align='center' src="https://c.tenor.com/eT65efTNamoAAAAi/bonfire-darksouls.gif" /></p>
-    <h3 align='center'>Rest here weary traveler, for great adventures lie ahead</h3>
+    <h3 align='center'>Rest here weary traveller, for great adventures lie ahead</h3>
   </div>  
   <br>
 </details>
