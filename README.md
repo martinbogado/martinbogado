@@ -24,10 +24,10 @@
 
 <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+<a href="https://www.w3schools.com/html/" target="_blank" title="HTML5"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="https://sass-lang.com/" target="_blank" title="SASS"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
 <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img width='48px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"/></a>
-<a href="https://www.w3schools.com/html/" target="_blank" title="HTML5"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://nextjs.org/" target="_blank" title="Next.js"><img width="48px" src="https://s2.qwant.com/thumbr/0x0/4/c/51a9ba451825929e69f00ddaa26db870683cbf42daec0ccaf4dc9896b0fc8f/next-logo.png?u=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Fv1607554385%2Frepositories%2Fnext-js%2Fnext-logo.png&q=0&b=1&p=0&a=0"/></a>
 <a href="https://redux.js.org/" target="_blank" title="Redux"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
