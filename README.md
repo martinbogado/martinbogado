@@ -7,16 +7,18 @@
 ### About me:
 - 🌎 Currently base at: Buenos Aires, Argentina
 - <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Graduate Student from **[Henry](https://www.soyhenry.com/)**
-- 👨🏻‍💻 I’m currently working on **Portfolio**
-- 📚 I’m currently learning **Next.js**
+- 👨🏻‍💻 I’m currently working on **Annuities Project**
+- 📚 I’m currently learning **Blockchain** 🗿
 - 👯 I’m looking to collaborate on Web3 Projects
 - 💬 Ask me about Web Development, Science and Souls games
 <br />
 
 ## 📫 Get In Touch
-<a href="https://www.linkedin.com/in/martinbogado/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/martinbogado/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:martinbogado@live.com.ar"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px" alt="mail"></a> 
+<a href="mailto:martinbogado@live.com.ar"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px" alt="mail"></a>
+&nbsp; &nbsp;
+<a href="https://martinbogado-portfolio.vercel.app/" target="_blank"><img title='Portfolio Website' src="https://cdn-icons-png.flaticon.com/512/186/186373.png" width="40px" alt="mail"></a> 
 &nbsp; &nbsp;
 
 
