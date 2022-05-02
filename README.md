@@ -8,7 +8,7 @@
 - 🌎 Currently base at: Buenos Aires, Argentina
 - <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Graduate Student from **[Henry](https://www.soyhenry.com/)**
 - 👨🏻‍💻 I’m currently working on **Annuities Project**
-- 📚 I’m currently learning **Blockchain** 🗿
+- 📚 I’m currently learning about **Blockchain** 🗿
 - 👯 I’m looking to collaborate on Web3 Projects
 - 💬 Ask me about Web Development, Science and Souls games
 <br />
