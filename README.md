@@ -7,7 +7,7 @@
 ### About me:
 - 🌎 Currently base at: Buenos Aires, Argentina
 - <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Graduate Student from **[Henry](https://www.soyhenry.com/)**
-- 👨🏻‍💻 I’m currently working on **Annuities Project**
+- 👨🏻‍💻 I’m currently working on **SoyHabitue**
 - 📚 I’m currently learning **Solidity** 🗿
 - 👯 I’m looking to collaborate on Web3 Projects
 - 💬 Ask me about Web Development, Science and Souls games
@@ -29,9 +29,11 @@
 <a href="https://www.w3schools.com/html/" target="_blank" title="HTML5"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="https://sass-lang.com/" target="_blank" title="SASS"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
+<a href="https://mui.com/" target="_blank" title="MaterialUI"><img width='48px' src="https://mui.com/static/logo.png"/></a>
 <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img width='48px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"/></a>
 <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://nextjs.org/" target="_blank" title="Next.js"><img width="48px" src="https://s2.qwant.com/thumbr/0x0/4/c/51a9ba451825929e69f00ddaa26db870683cbf42daec0ccaf4dc9896b0fc8f/next-logo.png?u=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Fv1607554385%2Frepositories%2Fnext-js%2Fnext-logo.png&q=0&b=1&p=0&a=0"/></a>
+<a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank" title="Solidity"><img width='30px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png"/></a>
 <a href="https://redux.js.org/" target="_blank" title="Redux"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
 <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a href="https://www.sanity.io/" target="_blank" title="Sanity.io"><img width='46px' src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_96102ac6497377cd53da621075fe828e/sanity.png" /></a>
@@ -45,6 +47,25 @@
   ## 🔨 Projects I've worked on:
 <details>
   <summary>:pushpin:👈👈👈</summary>
+  <br>
+  <div>
+    <h2>Celominder</h2>
+    <div align='center'>
+      <div>
+        <img src="https://user-images.githubusercontent.com/85038226/173673659-d98ef6c0-3c11-4bf1-ab7e-a34a5682fed2.png" width=49.5%>
+        <img src="https://user-images.githubusercontent.com/85038226/183421194-e9f2cb49-a248-48d5-bedb-10ad0bf235ff.png" width=49.5%>
+      </div>
+      <div>
+        <img src="https://user-images.githubusercontent.com/85038226/173674133-7d86d989-ef84-4d72-9c5d-27e7841ec66f.png" width=49.5%>
+        <img src="https://user-images.githubusercontent.com/85038226/173674700-d95bab45-a0e5-4663-89fb-4c2e18e46fdd.png" width=49.5%>
+      </div>
+    </div>  
+    <div align="center">
+      <a href="https://github.com/martinbogado/celo-habitos-dapp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=martinbogado&repo=celo-habitos-dapp&show_owner=true&theme=slateorange" />
+      </a>
+    </div>
+  </div>
   <br>
   <div>
     <h2>NFT Drop Website</h2>
