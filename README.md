@@ -1,16 +1,16 @@
 
 
 <h1>Hi! I'm Martin Bogado <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  height='50px'></h1>
-<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Full+Stack+Developer;Web3+enthusiast">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=E9B517&width=435&lines=Frontend+Developer;Personal+Growth+Enthusiast">
 
 <!-- Tengo que agregar imagen portada -->
 ### About me:
 - 🌎 Currently base at: Buenos Aires, Argentina
 - <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Graduate Student from **[Henry](https://www.soyhenry.com/)**
-- 👨🏻‍💻 I’m currently working on **SoyHabitue**
-- 📚 I’m currently learning **Solidity** 🗿
-- 👯 I’m looking to collaborate on Web3 Projects
-- 💬 Ask me about Web Development, Science and Souls games
+- 👨🏻‍💻 I’m currently working at **PideDirecto**
+- 📚 I’m currently learning **Prompt Engineering** 🗿
+- 👯 I’m looking to collaborate on Projects with a **high-positive impactful on other people's life**
+- 💬 Ask me about Web Development, Science and Fitness
 <br />
 
 ## 📫 Get In Touch
@@ -38,7 +38,6 @@
 <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a href="https://www.sanity.io/" target="_blank" title="Sanity.io"><img width='46px' src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_96102ac6497377cd53da621075fe828e/sanity.png" /></a>
 <a href="https://sequelize.org/" target="_blank" title="Sequelize"><img width="40px" src="https://s2.qwant.com/thumbr/0x380/f/1/def6e5a6cedacd5856251aeaef7e52119bf19a4f70ada987080f4a3db8e074/sequelize-logo-png-transparent.png?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fsequelize-logo-png-transparent.png&q=0&b=1&p=0&a=0"/></a>
-<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"><img width='48px'  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
 <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
@@ -47,6 +46,25 @@
   ## 🔨 Projects I've worked on:
 <details>
   <summary>:pushpin:👈👈👈</summary>
+  <br>
+    <div>
+    <h2>Llamas Finance - Chainlink Spring 2022 Hackathon Winner 🏆</h2>
+    <div align='center'>
+      <div>
+        <img src="https://github.com/martinbogado/martinbogado/assets/85038226/7ad28328-b8dd-4399-a048-2517a37fc98b" width=49.5%>
+        <img src="https://github.com/martinbogado/martinbogado/assets/85038226/b75da487-a889-4de8-8c19-9e34bca37721" width=49.5%>
+      </div>
+      <div>
+        <img src="https://github.com/martinbogado/martinbogado/assets/85038226/0c2782dc-e0bb-4e92-a4b3-726246f63829" width=49.5%>
+        <img src="https://github.com/martinbogado/martinbogado/assets/85038226/e0b2b8c2-6119-466a-b7a1-46f8e91135fe" width=49.5%>
+      </div>
+    </div>
+     <div align="center">
+      <a href="https://devpost.com/software/llamas-finance">
+        <img src="https://github.com/martinbogado/martinbogado/assets/85038226/fa47f0e7-1fd2-4a8f-af48-9a55dc763058" />
+      </a>
+    </div>
+  </div>
   <br>
   <div>
     <h2>Celominder</h2>
