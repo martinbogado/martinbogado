@@ -59,10 +59,8 @@
         <img src="https://github.com/martinbogado/martinbogado/assets/85038226/e0b2b8c2-6119-466a-b7a1-46f8e91135fe" width=49.5%>
       </div>
     </div>
-     <div align="center">
-      <a href="https://devpost.com/software/llamas-finance">
-        <img src="https://github.com/martinbogado/martinbogado/assets/85038226/fa47f0e7-1fd2-4a8f-af48-9a55dc763058" />
-      </a>
+     <div align="center">     
+        <h3>👉 <a href="https://devpost.com/software/llamas-finance">Project Link</a> 👈</h3>
     </div>
   </div>
   <br>
