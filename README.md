@@ -140,7 +140,26 @@
   <br>
 </details>
 
+&nbsp;
+## 👨‍💻 ThePathToMasterProgramming
 
+- [x] PY4E - Python for Everybody --> **(Completed)**
+- [ ] CC4E - C Programming for Everybody --> **(In Progress)**
+- [ ] DJ4E - Django for Everybody
+- [ ] WA4E - Web Applications for Everybody
+- [ ] PG4E - Postgres for Everybody
+
+<details>
+  <summary>🏅 Badges</summary>
+  <h4 align='center'>These badges contain the official Open Badge metadata. You could validate the badge using a simple badge validator.</h4>
+  <div>
+    <h2 align='center'>PY4E</h2>
+    <p align='center'><img align='center' src="https://www.py4e.com/tsugi/badges/images/714f2b496f7564636766716c435875313549377074323330346e4d57773167315643716e76304e4e6d62516b2b4b636a7838465866775a6572335977687652416350644d387668563548555267455749703472364e4e7657507257357a63626247627a4a4847557763636f3d.png" /></p>
+  </div>  
+  <br>
+</details>
+
+&nbsp;
 <h2>💻 Some stats 💻</h2>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinbogado&show_icons=true&theme=slateorange&locale=en" alt="martinbogado" /><img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="185" height="185" /></p>
 
