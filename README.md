@@ -6,8 +6,8 @@
 <!-- Tengo que agregar imagen portada -->
 ### About me:
 - 🌎 Currently base at: Buenos Aires, Argentina
-- 👨🏻‍💻 I’m currently working at **Synergy Agency**
-- 📚 I’m currently doing [CC4E](https://www.cc4e.com/index.php) from **ThePathToMasterProgramming** by Dr. Chuck 🗿
+- 👨🏻‍💻 I’m currently working in a **YouTube Clone**
+- 📚 I’m currently reading **Computer Systems A Programmer’s Perspective** from Randal E. Bryant and David R. O’Hallaron
 <br />
 
 ## 📫 Get In Touch
@@ -140,11 +140,12 @@
   <br>
 </details>
 
+<!--  Queda suspendida esta area
 &nbsp;
 ## 👨‍💻 ThePathToMasterProgramming
 
-- [x] PY4E - Python for Everybody --> **(Completed)**
-- [ ] CC4E - C Programming for Everybody --> **(In Progress)**
+- [x] PY4E - Python for Everybody -> **(Completed)**
+- [ ] CC4E - C Programming for Everybody -> **(In Progress)**
 - [ ] DJ4E - Django for Everybody
 - [ ] WA4E - Web Applications for Everybody
 - [ ] PG4E - Postgres for Everybody
@@ -158,6 +159,7 @@
   </div>  
   <br>
 </details>
+-->
 
 &nbsp;
 <h2>💻 Some stats 💻</h2>
