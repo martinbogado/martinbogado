@@ -1,13 +1,13 @@
 
 
 <h1>Hi! I'm Martin Bogado <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  height='50px'></h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=E9B517&width=435&lines=Full+Stack+Developer;Personal+Growth+Enthusiast">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=E9B517&width=435&lines=Data+Analyst;Aspiring+Data+Engineer;Full+Stack+Developer">
 
 <!-- Tengo que agregar imagen portada -->
 ### About me:
 - 🌎 Currently base at: Buenos Aires, Argentina
-- 👨🏻‍💻 I’m currently working in a **YouTube Clone**
-- 📚 I’m currently reading **Computer Systems A Programmer’s Perspective** from Randal E. Bryant and David R. O’Hallaron
+<!--  - 👨🏻‍💻 I’m currently working in a **YouTube Clone**-->
+- 📚 I’m currently making the **DataExpert.io Bootcamp: Community Edition** from Zach Wilson
 <br />
 
 ## 📫 Get In Touch
