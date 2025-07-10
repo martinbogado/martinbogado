@@ -18,12 +18,12 @@
 <a href="https://martinbogado-portfolio.vercel.app/" target="_blank"><img title='Portfolio Website' src="https://cdn-icons-png.flaticon.com/512/186/186373.png" width="40px" alt="mail"></a> 
 &nbsp; &nbsp;
 
-<br />
 
-### Certificaciones 🏆
+### Certifications 🏆
 
 [![Meta Data Analyst Certificate](assets/meta-data-analyst-professional-certificate.png)](https://www.credly.com/badges/05496a98-4158-47e3-bbd7-9453c48327f1/public_url)
 
+<br />
 
 ## 👨🏻‍💻 Languages & Tools I use:
 
