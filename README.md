@@ -28,15 +28,17 @@
 ## 👨🏻‍💻 Languages & Tools I use:
 
 <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+<a href="https://spark.apache.org/" target="_blank" title="Apache Spark"><img src="https://img.icons8.com/color/48/000000/apache-spark.png"/></a>
+<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img width="46px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"/></a>
+<a href="https://www.docker.com/" target="_blank" title="Docker"><img width="48px" src="https://img.icons8.com/fluent/512/docker.png"/></a>
+<a href="https://www.tableau.com/es-es" target="_blank" title="Tableau"><img width="48px" src="https://img.icons8.com/color/512/tableau-software.png"/></a>
+<a href="https://www.clay.com/" target="_blank" title="Clay"><img width="50px" src="https://cdn.prod.website-files.com/61477f2c24a826836f969afe/677c0a6767557563354e34a3_Clay%20icon.png"/></a>
+<a href="https://n8n.io/" target="_blank" title="n8n"><img width="48px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png"/></a>
 <a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<a href="https://redux.js.org/" target="_blank" title="Redux"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
 <a href="https://nextjs.org/" target="_blank" title="Next.js"><img width="48px" src="https://s2.qwant.com/thumbr/0x0/4/c/51a9ba451825929e69f00ddaa26db870683cbf42daec0ccaf4dc9896b0fc8f/next-logo.png?u=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Fv1607554385%2Frepositories%2Fnext-js%2Fnext-logo.png&q=0&b=1&p=0&a=0"/></a>
 <a href="https://nodejs.org/" target="_blank" title="Node.js"><img width="48px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/></a>
-<a href="https://mui.com/" target="_blank" title="MaterialUI"><img width='48px' src="https://mui.com/static/logo.png"/></a>
-<a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img width='48px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"><img width='48px'  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
 <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
 
