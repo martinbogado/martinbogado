@@ -1,6 +1,6 @@
 
 
-<h1>Hi! I'm Martin Bogado <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  height='50px'></h1>
+<h1>Hi! I'm Martin <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  height='40px'></h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=E9B517&width=435&lines=Data+Analyst;Aspiring+Data+Engineer;Full+Stack+Developer">
 
 <!-- Tengo que agregar imagen portada -->
